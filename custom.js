@@ -1,4 +1,3 @@
-
 	var npf_d = 'https://admission.lpu.in';
 	var npf_c = '524';
 	var npf_m = '1';
